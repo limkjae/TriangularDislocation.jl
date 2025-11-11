@@ -1,7 +1,3 @@
-Reference journal article: 
-Nikkhoo M. and Walter T.R., 2015. Triangular dislocation: An analytical, artefact-free solution. GJI
-
-Translated to Julia By KJ 
 
  TDstressHS 
  Calculates stresses and strains associated with a triangular dislocation 
@@ -36,6 +32,10 @@ Translated to Julia By KJ
   are Exx, Eyy, Ezz, Exy, Exz and Eyz, respectively. The strain components 
   are dimensionless.
   
+  Reference journal article: 
+  [Nikkhoo M. and Walter T.R., 2015. Triangular dislocation: An analytical, artefact-free solution. GJI](https://www.researchgate.net/publication/274408217_Triangular_dislocation_an_analytical_artefact-free_solution)
+  Translated to Julia By KJ 
+
 Example: 
 
 ```
