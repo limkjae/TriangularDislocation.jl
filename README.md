@@ -36,8 +36,9 @@ Translated to Julia By KJ
   are Exx, Eyy, Ezz, Exy, Exz and Eyz, respectively. The strain components 
   are dimensionless.
   
-Simple Example: 
-'''
+Example: 
+
+```
 using TriangularDislocation
 using LinearAlgebra
 
@@ -59,4 +60,4 @@ println("First call of the function still takes a while")
 
 println("Result: ",Strain[1,1],"     Nikkhoo and Walter (2015) Table 3 #1 : 0.0481047005255181")
 println("Result: ", Strain[2,1],"   Nikkhoo and Walter (2015) Table 3 #4 : 0.000829157341339727")
-'''
+```
