@@ -2,10 +2,6 @@
  TDstressHS 
  Calculates stresses and strains associated with a triangular dislocation 
  in an elastic half-space.
- TD: Triangular Dislocation
- EFCS: Earth-Fixed Coordinate System
- TDCS: Triangular Dislocation Coordinate System
- ADCS: Angular Dislocation Coordinate System
 
  INPUTS
  X, Y and Z: 
